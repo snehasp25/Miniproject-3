@@ -1,1 +1,2 @@
-# Miniproject-3
+# miniproject3
+dice game 
